@@ -1,0 +1,15 @@
+
+
+
+
+
+.news{
+	border: 2px solid red;
+	width: 30%;
+	display: inline-block;
+	margin-right: 2%;
+}
+
+.news img{
+	width: 100%;
+}
